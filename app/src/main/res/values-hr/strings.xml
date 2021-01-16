@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VeronikApp</string>
+    <string name="play_again">Igraj ponovo</string>
+    <string name="statistics">STATISTIKE</string>
+    <string name="total_wins">Ukupan broj pobjeda:</string>
+    <string name="total_games_played">Ukupan broj pokušaja:</string>
+    <string name="win_rate">Pobjede: </string>
+    <string name="wins_today">Broj pobjeda danas:</string>
+    <string name="games_played_today">Broj pokušaja danas:</string>
+    <string name="new_game">Nova igra</string>
+    <string name="text_view_lose_text">Niste pogodili traženu kombinaciju!</string>
+    <string name="text_view_win_text">Pogodili ste traženu kombinaciju!</string>
+    <string name="credits">ZASLUGE</string>
+    <string name="artists">UMJETNICI</string>
+    <string name="txtCredits1">Icons made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></string>
+</resources>

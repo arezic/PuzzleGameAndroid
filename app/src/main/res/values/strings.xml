@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VeronikApp</string>
+    <string name="play_again">Play again</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="total_wins">Total wins:</string>
+    <string name="total_games_played">Total games played:</string>
+    <string name="win_rate">Win rate: </string>
+    <string name="wins_today">Wins today:</string>
+    <string name="games_played_today">Games played today:</string>
+    <string name="new_game">New game</string>
+    <string name="text_view_lose_text">Oh no! You lost!</string>
+    <string name="text_view_win_text">Congratulations! You win!</string>
+    <string name="credits">CREDITS</string>
+    <string name="artists">ARTISTS</string>
+    <string name="txtCredits1">Icons made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></string>
+</resources>
